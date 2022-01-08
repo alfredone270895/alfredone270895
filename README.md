@@ -14,7 +14,7 @@ You can look more information about me on my site:
 
 **Client:** React.js, Vue.js , Jquery, HTML, CSS, Javascript.
 
-**Server:** <img src="https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png" width="50" height="50"/> <img src="https://pics.freeicons.io/uploads/icons/png/8226079001553750211-512.png" width="50" height="50"/>  <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width="50" height="50"/>, Java, C, Python. 
+**Server:** <img src="https://pics.freeicons.io/uploads/icons/png/2132470731553750209-512.png" width="50" height="50"/> <img src="https://pics.freeicons.io/uploads/icons/png/8226079001553750211-512.png" width="50" height="50"/>  <img src="https://pics.freeicons.io/uploads/icons/png/14678610731551953708-512.png" width="50" height="50"/>  <img src="https://pics.freeicons.io/uploads/icons/png/15347564851553750215-512.png" width="50" height="50"/> <img src="https://pics.freeicons.io/uploads/icons/png/15347564851553750215-512.png" width="50" height="50"/> <img src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png " width="50" height="50"/>
 
 
 ## 🛠 Skills
