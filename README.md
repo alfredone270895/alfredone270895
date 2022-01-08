@@ -6,7 +6,7 @@
 I'm a Full stack developer based in Milan, i love programming and tech.<br>
 IT Expert and i am finishing my degree in computer science at Università degli studi di Milano.<br>
 You can look more information about me on my site:
-<a href="https://alfredodallarisergio.netlify.app/" target="_blank"> My site </a>
+<a href="https://alfredodallarisergio.netlify.app/" target="_blank"> My site </a> <br>
 Job profile: https://github.com/AlfredoDallari
 
 
