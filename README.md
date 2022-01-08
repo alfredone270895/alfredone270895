@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 I'm a Full stack developer based in Milan, i love programming and tech.<br>
-IT Expert and i am finishing my degree in computer science at Università degli studi di Milano.
+IT Expert and i am finishing my degree in computer science at Università degli studi di Milano.<br>
 You can look more information about me on my site:
 https://alfredodallarisergio.netlify.app/
 
