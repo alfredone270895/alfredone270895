@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer based in Milan, i love programming and tech.
+I'm a full stack developer based in Milan, i love programming and tech.<br>
 IT Expert and i am finishing my degree in computer science at Università degli studi di Milano.
 
 
