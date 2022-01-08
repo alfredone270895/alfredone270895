@@ -10,7 +10,7 @@ IT Expert and i am finishing my degree in computer science at Università degli 
 
 ## Tech Stack
 
-**Client:** React.js, Redux, Jquery, HTML, CSS, Javascript.
+**Client:** React.js, Vue.js , Jquery, HTML, CSS, Javascript.
 
 **Server:** Php, Node.js, Typescript, Java, C, Python. 
 
