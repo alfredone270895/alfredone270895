@@ -30,3 +30,13 @@ Operating systems, Computer networks, Secure software development, Software engi
 - 3D application
 - Statistics
 
+## Next public projects
+
+- Fixing logloader
+- Random walk with three.js
+- Node.js Typescript stack with express.js and PostgreSQL for web application
+- Php7+ stack for web application
+- Laravel lumen stack for web backend application
+- Python stack for web backend application
+- React.js starter for web frontend application
+
