@@ -9,7 +9,7 @@ You can look more information about me on my site:
 <a href="https://alfredodallarisergio.netlify.app/" target="_blank"> My site </a> <br>
 Work in dils<br>
 Job profile: https://github.com/AlfredoDallari<br><br>
-All my public repository are made in free time
+All my public repository are made in free time (little time available)
 
 
 ## Tech Stack
@@ -38,5 +38,5 @@ Operating systems, Computer networks, Secure software development, Software engi
 - Php7+ stack for web application
 - Laravel lumen stack for web backend application
 - Python stack for web backend application
-- React.js starter for web frontend application
+- React.js starter and page creator for web frontend application
 
