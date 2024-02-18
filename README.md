@@ -4,9 +4,7 @@
 
 ## 🚀 About Me
 I'm a Full stack developer based in Milan, i love programming and tech.<br>
-A bachelor in computer science at Università degli studi di Milano and 8 year of experience in field of web software development<br>
-You can look more information about me on my site:
-<a href="https://alfredodallarisergio.netlify.app/" target="_blank"> My site </a> 
+A bachelor in computer science at Università degli studi di Milano and 8 year of experience in field of web software development
 
 
 ## Tech Stack
