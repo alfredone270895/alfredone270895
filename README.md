@@ -4,12 +4,9 @@
 
 ## 🚀 About Me
 I'm a Full stack developer based in Milan, i love programming and tech.<br>
-IT Expert and i am finishing my degree in computer science at Università degli studi di Milano.<br>
+A bachelor in computer science at Università degli studi di Milano and 8 year of experience in field of web software development<br>
 You can look more information about me on my site:
-<a href="https://alfredodallarisergio.netlify.app/" target="_blank"> My site </a> <br>
-Work in dils<br>
-Job profile: https://github.com/AlfredoDallari<br><br>
-All my public repository are made in free time (little time available)
+<a href="https://alfredodallarisergio.netlify.app/" target="_blank"> My site </a> 
 
 
 ## Tech Stack
@@ -28,4 +25,3 @@ Operating systems, Computer networks, Secure software development, Software engi
 
 - Blockchain
 - 3D application
-- Statistics
